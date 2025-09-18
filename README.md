@@ -54,7 +54,6 @@ This project combines deep learning (AI/ML), scalable data pipelines, and full-s
 
 - 🌐 **Live Demo:** [dermascopeai.vercel.app](https://dermascopeai.vercel.app/)  
 - 🎓 **Dean Endorsement:** [Instagram Post](https://www.instagram.com/p/DOPf85Bicfz/?igsh=MTRkOHNoM3FsZngzYQ==)  
-- 📽️
 
 # 📊 Results & Visuals  
 
