@@ -44,4 +44,43 @@ This project combines deep learning (AI/ML), scalable data pipelines, and full-s
 
 - 🌐 **Live Demo:** [dermascopeai.vercel.app](https://dermascopeai.vercel.app/)  
 - 🎓 **Dean Endorsement:** [Instagram Post](https://www.instagram.com/p/DOPf85Bicfz/?igsh=MTRkOHNoM3FsZngzYQ==)  
-- 📽️ 
+- 📽️
+
+# 📊 Results & Visuals  
+
+## 🖼️ Example Prediction  
+Demonstration of the model classifying a dermoscopic image with confidence scores across 7 lesion types.  
+
+![Prediction Example](../assets/d5.png)  
+
+---
+
+## 📈 Dataset Distribution  
+Two class distribution views:  
+- **Balanced distribution** after augmentation (~7k images per class).  
+- **Original distribution** before augmentation (imbalanced dataset).  
+
+| Balanced Dataset | Original Dataset |
+|------------------|------------------|
+| ![Balanced](../assets/d3.png) | ![Original](../assets/d2.png) |
+
+---
+
+## 📉 Model Performance  
+Evaluation metrics and training curves.  
+
+**Final Metrics:**  
+- Test Accuracy: **90.17%**  
+- Test Error: **9.83%**  
+- Test Loss: **0.4252**  
+- Max Validation Accuracy: **90.39%**  
+- Min Validation Loss: **0.3635**  
+
+![Training Curves](../assets/d4.png)  
+
+---
+
+## 🧠 Model Architecture (Simplified)  
+High-level visualization of the classification pipeline.  
+
+![Architecture](../assets/d1.png)  
