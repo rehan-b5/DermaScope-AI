@@ -15,7 +15,7 @@ This project combines deep learning (AI/ML), scalable data pipelines, and full-s
 ## 🧠 Technical Highlights  
 - **Deep Learning Pipeline**:  
   - Leveraged **EfficientNet-B3 transfer learning** via PyTorch for feature extraction & classification.  
-  - Trained on **50,000+ augmented dermoscopic samples** across **7 major skin cancer types**.  
+  - Trained on **50,000+ augmented dermoscopic samples** (sourced via Kaggle, ISCIC and augmentations) across **7 major skin cancer types**.  
 
 - **Data Processing & Architecture**:  
   - Built a scalable system with **Python, NumPy, Pandas, and OpenCV** for preprocessing and augmentation.  
