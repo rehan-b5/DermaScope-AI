@@ -1,5 +1,15 @@
 # 🔬 DermaScope AI  
 
+[![Tech: Python](https://img.shields.io/badge/Language-Python-blue)](#)  
+[![Tech: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange)](#)  
+[![Tech: EfficientNetB3](https://img.shields.io/badge/Model-EfficientNetB3-green)](#)  
+[![Tech: NumPy](https://img.shields.io/badge/Library-NumPy-lightgrey)](#)  
+[![Tech: Pandas](https://img.shields.io/badge/Library-Pandas-yellow)](#)  
+[![Tech: OpenCV](https://img.shields.io/badge/Library-OpenCV-blueviolet)](#)  
+[![Tech: Flask](https://img.shields.io/badge/Backend-Flask-red)](#)  
+[![Tech: React](https://img.shields.io/badge/Frontend-React-blue)](#)  
+[![Tech: Supabase](https://img.shields.io/badge/Database-Supabase-brightgreen)](#) 
+
 AI-powered skin cancer diagnosis platform endorsed by the University of Toronto Faculty Dean.  
 This project combines deep learning (AI/ML), scalable data pipelines, and full-stack deployment to provide real-time predictions of dermoscopic images.  
 
