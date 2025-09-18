@@ -46,8 +46,6 @@ This project combines deep learning (AI/ML), scalable data pipelines, and full-s
 | Dataset Size         | 50,000+ Augmented Images |
 | Inference Latency    | <8s per image |
 
-📸  
-
 ---
 
 ## 🎥 Demo  
