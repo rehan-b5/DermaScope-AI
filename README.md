@@ -18,7 +18,7 @@ This project combines deep learning (AI/ML), scalable data pipelines, and full-s
 ## 🎯 Overview  
 - **Timeline:** Apr 2025 – Aug 2025  
 - **Role:** Freelance Software Engineer  
-- **Impact:** Delivered a robust diagnosis tool with **92% test accuracy** and predictions in **<8 seconds**, accessible via a user-friendly web interface.  
+- **Impact:** Delivered a robust diagnosis tool with **90.17% test accuracy** and predictions in **<8 seconds**, accessible via a user-friendly web interface.  
 
 ---
 
