@@ -41,7 +41,7 @@ This project combines deep learning (AI/ML), scalable data pipelines, and full-s
 
 | Metric              | Value        |
 |----------------------|-------------:|
-| Test Accuracy        | **92%**      |
+| Test Accuracy        | **90.17%**      |
 | Classes              | 7 Skin Cancer Types |
 | Dataset Size         | 50,000+ Augmented Images |
 | Inference Latency    | <8s per image |
